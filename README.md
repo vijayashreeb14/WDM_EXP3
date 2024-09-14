@@ -142,4 +142,4 @@ visualize_patterns_line(party_wear_result, 'Party Wear')
 
 
 ### Result:
-GSP Algorithm In Python executes successfully.
+Thus the implementation of the GSP algorithm in python has been successfully executed.
