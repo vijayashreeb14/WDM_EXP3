@@ -103,6 +103,9 @@ else:
 ```
 ### Output:
 
+![image](https://github.com/user-attachments/assets/ba0d20ec-7b9a-484e-bb6a-c8bbb1a41079)
+
+
 ### Visualization:
 ```python
 import matplotlib.pyplot as plt
@@ -122,7 +125,7 @@ def visualize_patterns_line(result, category):
         plt.tight_layout()
         plt.show()
     else:
-        print(f"No frequent sequential patterns found in {category}.")
+        print(f"No frequent sequential patterns found in {category}.")ess
 
 # Visualize frequent sequential patterns for each category using a line plot
 visualize_patterns_line(top_wear_result, 'Top Wear')
@@ -132,4 +135,11 @@ visualize_patterns_line(party_wear_result, 'Party Wear')
 ### Output:
 
 
+![Screenshot 2024-09-14 091047](https://github.com/user-attachments/assets/fa15dcac-2da9-4f17-87ba-694987397e86)
+
+
+![Screenshot 2024-09-14 091106](https://github.com/user-attachments/assets/ee85e245-0621-4006-bea9-8a67ae7a73e3)
+
+
 ### Result:
+GSP Algorithm In Python executes successfully.
